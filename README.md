@@ -1,4 +1,8 @@
 # hello-world
+
+now, I am studying Java about half a month. Today,
+maybe, it is worth remembering.
+
 Just another repository
 
 
